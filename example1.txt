@@ -1,1 +1,1 @@
-/example for git tut/
+/example-dev for git tut/
